@@ -1,2 +1,2 @@
-# thesisi_proj
+# thesis_proj
 MY project from final year research thesis
